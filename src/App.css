@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+}
+
+.editor {
+  flex: 1;
+}
+
+.preview {
+  flex: 1;
+}
+
+code {
+  white-space: pre;
+}
